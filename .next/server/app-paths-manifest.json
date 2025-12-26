@@ -1,8 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/waitlist/page": "app/waitlist/page.js",
-  "/legal/privacy/page": "app/legal/privacy/page.js",
-  "/legal/terms/page": "app/legal/terms/page.js",
-  "/legal/cookies/page": "app/legal/cookies/page.js"
-}
