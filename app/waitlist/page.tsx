@@ -18,7 +18,7 @@ export default function WaitlistPage() {
             href="mailto:hello@innvois.com?subject=Innvois%20Waitlist%20Request"
             className="mt-3 inline-flex items-center justify-center rounded-md bg-[#059669] px-4 py-2 text-sm font-semibold text-white hover:bg-[#047857]"
           >
-            Email hello@innvois.com
+            Email info@innvois.com
           </a>
 
           <div className="mt-4 text-xs text-neutral-500">
